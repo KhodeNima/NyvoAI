@@ -55,7 +55,7 @@ Nyvo Studio Project Documentation Style Guide:
     23. If the changelog of an update contains more than 10 elements, the version semantic numbering principle is considered-
          - a massive API change.
 
-    24. Only compact changes after a merge are allowed to be patched and committed outside of branches by the project manager.
+    24. Due to Git conflict occurence, no commit is allowed to be made or/and pushed to the master branch without using pull requests..
 
     25. Issues naming conventions should follow the corressondig regular expression: `Issue Note | N : {Issue Number}`, e.x: Issue Note | N : 1
 
