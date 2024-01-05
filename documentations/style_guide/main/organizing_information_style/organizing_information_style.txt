@@ -1,25 +1,3 @@
-NyvoStudio info organizing Style guide :
-
-    1. The text "Black onion project info organizing Style guide" Is a __TITLE__.
-
-    2. __TITLE__ name's should be descriptive and simple , Do not use complexity.
-   
-    3. The txt written at number 1 , Is a __SUBTITLE__.
-
-    4. All __TITLE__'s Must have two blank line's between each other.
-
-    5. All __SUBTITLE__'s Should be used inside A __TITLE__.
-
-    6. All first __SUBTITLE__'s Inside Should be seperated from the __TITLE__ by one line.
-
-    7. All __SUBTITLE__'s Should be one line Seperated from each other.
-
-    8. All __SUBTITLE__'s Should have four space's at their backside Before their main text.
-
-    9. All __SUBTITLE__'s Should have A numbering.
-
-    10. All __SUBTITLES__'s Number's should be in english numbering.
-  
-    11. All __SUBTITLE__'s Should have A __Dot__(.) After their numbering.
-
-    12. All __SUBTITLE__'s should have one space between their __dot__ and the main text.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca1e7e3c27952aa6dfec6f634b626ae6d8dee146d0ac4657a1fccf32f0032026
+size 973

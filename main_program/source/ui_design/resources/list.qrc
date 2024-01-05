@@ -1,20 +1,3 @@
-<!DOCTYPE RCC>
-<RCC version="1.0">
-
-
-<qresource>
-
-
-    <file>pictures/check_mark.png</file>
-    <file>pictures/connected_icon.png</file>
-    <file>pictures/icon.png</file>
-    <file>pictures/no_connection_icon.png</file>
-    <file>pictures/pushbuttonicon.png</file>
-    <file>pictures/target_icon.png</file>
-    <file>html_files/base_state.html</file>
-    <file>html_files/spoof_result.html</file>
-
-
-</qresource>
-
-</RCC>
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f25bf184609c2f77971ef5124cae296ca41b5c1609b27a880d44bf287341472
+size 633

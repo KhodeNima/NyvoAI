@@ -1,11 +1,3 @@
-# **Welcome to NyvoStudios Style Guide Repository for Software Engineers.**
-
-*As a software development studio, NyvoStudio is committed to crafting high-quality, user-friendly software solutions. This repository contains our official Style Guide, which outlines the technical documentation and design standards for our software projects. By adhering to these guidelines, our developers ensure consistent and professional products that exceed the expectations of our users.*
-
-<br>
-
-*Thank you for using our Style Guide.*
-
----
-
-> By : KhodeNima ( Nima Bavar ), NyvoStudio's software engineer and team manager.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0ec5a6ce9fb17c0f36d047f490164129a070d4cddaade842be7f289e3ef3984
+size 619
